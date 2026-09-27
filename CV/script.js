@@ -426,7 +426,7 @@ document.querySelectorAll(".optional-image-slot img").forEach((img) => {
    Google Visualization JSONP is used to load each sheet tab.
 ========================================================= */
 
-const SPREADSHEET_ID = "15DexGfSfuem7AJMuJEjm_QOB43uTK07_enAjPhgq900";
+const SPREADSHEET_ID = "1gDBB38kEVRMgAwdlgG77HVPMVqbEcjaZJ5M91DLAIU0";
 
 const SHEETS = {
   SCI:     { gid: "1044637119", type: "SCI", label: "SCI" },
